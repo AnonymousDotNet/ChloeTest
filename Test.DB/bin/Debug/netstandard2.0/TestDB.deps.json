@@ -7,13 +7,13 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "Test.Model/1.0.0": {
+      "TestDB/1.0.0": {
         "dependencies": {
           "Chloe": "3.9.0",
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
-          "Test.Model.dll": {}
+          "TestDB.dll": {}
         }
       },
       "Chloe/3.9.0": {
@@ -110,7 +110,7 @@
     }
   },
   "libraries": {
-    "Test.Model/1.0.0": {
+    "TestDB/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

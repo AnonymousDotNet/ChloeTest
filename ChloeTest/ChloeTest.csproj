@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Test.DB\Test.DB.csproj" />
+    <ProjectReference Include="..\Test.Model\Test.Model.csproj" />
+  </ItemGroup>
+
 </Project>

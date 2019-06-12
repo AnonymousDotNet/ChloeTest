@@ -1,0 +1,6 @@
+D:\LLD\TestCode\ChloeConsole\ChloeTest\Test.DB\bin\Debug\netstandard2.0\TestDB.deps.json
+D:\LLD\TestCode\ChloeConsole\ChloeTest\Test.DB\bin\Debug\netstandard2.0\TestDB.dll
+D:\LLD\TestCode\ChloeConsole\ChloeTest\Test.DB\obj\Debug\netstandard2.0\TestDB.csprojAssemblyReference.cache
+D:\LLD\TestCode\ChloeConsole\ChloeTest\Test.DB\obj\Debug\netstandard2.0\TestDB.csproj.CoreCompileInputs.cache
+D:\LLD\TestCode\ChloeConsole\ChloeTest\Test.DB\obj\Debug\netstandard2.0\TestDB.AssemblyInfoInputs.cache
+D:\LLD\TestCode\ChloeConsole\ChloeTest\Test.DB\obj\Debug\netstandard2.0\TestDB.AssemblyInfo.cs
