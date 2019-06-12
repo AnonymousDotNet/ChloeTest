@@ -1,0 +1,11 @@
+D:\LLD\TestCode\ChloeConsole\ChloeTest\ChloeTest\bin\Debug\netcoreapp2.2\ChloeTest.deps.json
+D:\LLD\TestCode\ChloeConsole\ChloeTest\ChloeTest\bin\Debug\netcoreapp2.2\ChloeTest.runtimeconfig.json
+D:\LLD\TestCode\ChloeConsole\ChloeTest\ChloeTest\bin\Debug\netcoreapp2.2\ChloeTest.runtimeconfig.dev.json
+D:\LLD\TestCode\ChloeConsole\ChloeTest\ChloeTest\bin\Debug\netcoreapp2.2\ChloeTest.dll
+D:\LLD\TestCode\ChloeConsole\ChloeTest\ChloeTest\bin\Debug\netcoreapp2.2\ChloeTest.pdb
+D:\LLD\TestCode\ChloeConsole\ChloeTest\ChloeTest\obj\Debug\netcoreapp2.2\ChloeTest.csprojAssemblyReference.cache
+D:\LLD\TestCode\ChloeConsole\ChloeTest\ChloeTest\obj\Debug\netcoreapp2.2\ChloeTest.csproj.CoreCompileInputs.cache
+D:\LLD\TestCode\ChloeConsole\ChloeTest\ChloeTest\obj\Debug\netcoreapp2.2\ChloeTest.AssemblyInfoInputs.cache
+D:\LLD\TestCode\ChloeConsole\ChloeTest\ChloeTest\obj\Debug\netcoreapp2.2\ChloeTest.AssemblyInfo.cs
+D:\LLD\TestCode\ChloeConsole\ChloeTest\ChloeTest\obj\Debug\netcoreapp2.2\ChloeTest.dll
+D:\LLD\TestCode\ChloeConsole\ChloeTest\ChloeTest\obj\Debug\netcoreapp2.2\ChloeTest.pdb
