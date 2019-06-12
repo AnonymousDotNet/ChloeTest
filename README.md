@@ -6,7 +6,7 @@
 >* Test.Model：.netcore类库项目，存放api接口输入输出实体类、以及数据库表映射的实体类型
 >* Test.DB：.netcore类库项目，实现对数据库访问的封装
 >* 在Test.Web添加对Test.DB、Test.Model项目的引用
------------
+
 ##第二，Nuget安装Chloe，以下就不贴图了，步骤最好依次执行即可。
 >* 在Test.DB项目下使用nuget安装Chloe和Chloe.SqlServer
 >* 在Test.Model子项目下使用Nuget安装Chloe
