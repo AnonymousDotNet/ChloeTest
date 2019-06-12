@@ -6,4 +6,3 @@ D:\LLD\TestCode\ChloeConsole\ChloeTest\Test.DB\obj\Debug\netstandard2.0\Test.DB.
 D:\LLD\TestCode\ChloeConsole\ChloeTest\Test.DB\obj\Debug\netstandard2.0\Test.DB.AssemblyInfo.cs
 D:\LLD\TestCode\ChloeConsole\ChloeTest\Test.DB\obj\Debug\netstandard2.0\Test.DB.dll
 D:\LLD\TestCode\ChloeConsole\ChloeTest\Test.DB\obj\Debug\netstandard2.0\Test.DB.pdb
-D:\LLD\TestCode\ChloeConsole\ChloeTest\Test.DB\obj\Debug\netstandard2.0\Test.DB.csprojAssemblyReference.cache
