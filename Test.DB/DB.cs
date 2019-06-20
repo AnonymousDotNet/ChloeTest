@@ -17,10 +17,10 @@ namespace Test.DB
         private IDbContext NewDB()
         {
             //数据库地址等信息
-            var sqlserver_conn_str = "database=test;server=.;User=sa;password=sa;";
+            var sqlserver_conn_str = "database=test;server=.;User=sa;password=sa;";//用的本地数据库地址
             return new Chloe.SqlServer.MsSqlContext(sqlserver_conn_str);
         }
-        #region 基础操作
+        #region 基础操作方法，这里不明白一定要写这个，因为直接引用了Chloe的Nuget了可以直接使用他们的封装的方法了为什么还写这些扩展方法？不解
         /// <summary>
         /// 新增,如果一个实体存在自增列，会自动将自增列设置到相应的属性上
         /// </summary>
